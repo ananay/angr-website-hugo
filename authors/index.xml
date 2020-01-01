@@ -1,0 +1,86 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on angr</title>
+    <link>https://angr.github.io/authors/</link>
+    <description>Recent content in Authors on angr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2019 15:48:59 -0800</lastBuildDate>
+    
+        <atom:link href="https://angr.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>anton00b</title>
+      <link>https://angr.github.io/authors/anton00b/</link>
+      <pubDate>Sun, 14 Apr 2019 15:48:59 -0800</pubDate>
+      
+      <guid>https://angr.github.io/authors/anton00b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conand</title>
+      <link>https://angr.github.io/authors/conand/</link>
+      <pubDate>Sun, 14 Apr 2019 15:48:59 -0800</pubDate>
+      
+      <guid>https://angr.github.io/authors/conand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phate</title>
+      <link>https://angr.github.io/authors/phate/</link>
+      <pubDate>Sun, 14 Apr 2019 15:48:59 -0800</pubDate>
+      
+      <guid>https://angr.github.io/authors/phate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>degrigis</title>
+      <link>https://angr.github.io/authors/degrigis/</link>
+      <pubDate>Tue, 20 Nov 2018 15:48:59 -0800</pubDate>
+      
+      <guid>https://angr.github.io/authors/degrigis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r0rshark</title>
+      <link>https://angr.github.io/authors/r0rshark/</link>
+      <pubDate>Tue, 20 Nov 2018 15:48:59 -0800</pubDate>
+      
+      <guid>https://angr.github.io/authors/r0rshark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subwire</title>
+      <link>https://angr.github.io/authors/subwire/</link>
+      <pubDate>Tue, 20 Nov 2018 15:48:59 -0800</pubDate>
+      
+      <guid>https://angr.github.io/authors/subwire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lockshaw</title>
+      <link>https://angr.github.io/authors/lockshaw/</link>
+      <pubDate>Wed, 26 Sep 2018 14:14:02 -0700</pubDate>
+      
+      <guid>https://angr.github.io/authors/lockshaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zardus</title>
+      <link>https://angr.github.io/authors/zardus/</link>
+      <pubDate>Mon, 15 Jan 2018 15:35:26 -0800</pubDate>
+      
+      <guid>https://angr.github.io/authors/zardus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

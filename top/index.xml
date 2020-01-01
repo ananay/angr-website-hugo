@@ -1,0 +1,86 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on angr</title>
+    <link>https://angr.github.io/top/</link>
+    <description>Recent content in Tops on angr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+        <atom:link href="https://angr.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://angr.github.io/invite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angr.github.io/invite/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Join our Slack!&lt;/h2&gt;
+&lt;p&gt;angr does most of its communication through a slack channel: &lt;a href=&#34;https://angr.slack.com&#34;&gt;angr.slack.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To get an slack invite, submit this form:&lt;/p&gt;
+&lt;form method=POST action=&#34;https://maker.ifttt.com/trigger/angr_slack_invite/with/key/c38ZfBEsChSCJjfkniPW2G&#34;&gt;
+  &lt;div&gt;
+    Email address: &lt;input name=&#34;value1&#34;&gt;&lt;br&gt;
+    Affiliation (university, company, country, anything!): &lt;input name=&#34;value2&#34;&gt;&lt;br&gt;
+    How are you planning on using angr? &lt;input name=&#34;value3&#34;&gt;&lt;br&gt;
+    &lt;input type=submit&gt;
+  &lt;/div&gt;
+&lt;/form&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://angr.github.io/management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angr.github.io/management/</guid>
+      <description>&lt;p&gt;&lt;script src=&#34;https://kit.fontawesome.com/d26d24aff7.js&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    let installCommand = &amp;ldquo;&amp;rdquo;
+    window.onload = function() {
+        if (navigator.appVersion.indexOf(&amp;ldquo;Win&amp;rdquo;) != -1) installCommand = &amp;ldquo;&amp;rdquo;;
+        if (navigator.appVersion.indexOf(&amp;ldquo;Mac&amp;rdquo;) != -1) installCommand = &amp;ldquo;&lt;code&gt;brew install angr-management&lt;/code&gt;&amp;rdquo;;
+        if (navigator.appVersion.indexOf(&amp;ldquo;Linux&amp;rdquo;) != -1) Name = installCommand = &amp;ldquo;&lt;code&gt;apt-get install angr-management&lt;/code&gt;&amp;rdquo;;
+        document.getElementById(&amp;lsquo;black_code&amp;rsquo;).innerHTML = installCommand;
+    }
+&lt;/script&gt;
+&lt;div class=&#34;m&#34;&gt;
+    &lt;h1 class=&#34;title&#34;&gt; angr-management &lt;/h1&gt;
+    &lt;p class=&#34;description&#34;&gt;Introducing the beautiful new GUI for angr.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;div class=&#34;buttons&#34;&gt;
+        &lt;div&gt;
+            &lt;a href=&#34;https://github.com/angr/angr-management/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+                &lt;span class=&#34;button dl&#34;&gt;
+                    &lt;i class=&#34;fas fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Download angr-management
+                &lt;/span&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;a href=&#34;https://github.com/angr/angr-management&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+                &lt;span class=&#34;button&#34;&gt;
+                    &lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;angr-management on Github
+                &lt;/span&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;div class=&#34;buttons&#34;&gt;
+        &lt;!-- &lt;div class=&#34;black_code&#34; id=&#34;black_code&#34;&gt;
+            ```
+            $ brew install angr-management
+            ```
+        &lt;/div&gt; --&gt;
+    &lt;/div&gt;
+    &lt;br /&gt;
+    &lt;img src=&#34;https://angr.github.io/img/angr-management-screenshot.png&#34; alt=&#34;&#34; class=&#34;screenshot&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
